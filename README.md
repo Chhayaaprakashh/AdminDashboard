@@ -1,0 +1,1 @@
+This project demonstrates the creation of a responsive admin dashboard using HTML and CSS Grid. It features sidebar navigation, dashboard cards, media queries for responsiveness, and a dark/light theme toggle implemented with JavaScript.
